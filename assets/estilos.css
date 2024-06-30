@@ -1,0 +1,16 @@
+html{
+    scroll-behavior: smooth;
+}
+
+body{
+    font-family: sans-serif;
+}
+
+h1{
+    color: red;
+}
+
+img{
+    max-width: 30%;
+    height: auto;
+}
